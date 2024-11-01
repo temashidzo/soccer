@@ -1,4 +1,4 @@
-# ⚽ Soccer Match Analysis using Computer Vision
+![Main](docs/soccer.gif)
 
 ## Overview
 
