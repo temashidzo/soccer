@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Main](docs/soccer.gif)
 
 ## Overview
@@ -16,6 +18,14 @@ This project is a computer vision-based analysis tool for soccer matches. It lev
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
+## Player and Team Tracking
+
+Detects players on the field and assigns each to their team color for easy identification. Referees are distinguished separately. Additionally, player numbers can be linked, ball tracking is active, and current ball possession is shown in real-time.
+
+![Players](docs/giphy_2.gif)
+
+</div>
 
 ## 🚀 How It Works
 
