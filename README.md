@@ -58,6 +58,6 @@ $ python main.py
 ---
 
 
-## 🧑‍💻 For more detailed instructions, contact me on [Telegram]([https://t.me/yourtelegram](https://t.me/temashidzo))
+## 🧑‍💻 For more detailed instructions, contact me on [Telegram](https://t.me/temashidzo)
 
 </div>
