@@ -25,64 +25,34 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ![Players](docs/giphy_1.gif)
 
-</div>
+
 
 ## 🚀 How to Try?
 
-1. Clone the repository:
+```# Clone this repository
+$ git clone https://github.com/temashidzo/soccer_analyzer.git
 
-```git clone <repository_url>```
+# Go into the repository
+$ cd Emotion_detection_v1
 
-2. Add an MP4 video file to the input_videos folder.
-3. In the main file, specify the path to your input video by setting the file name accordingly.
-4. Run the main file:
-```python main.py```
-5. The processed video will be saved in the output_videos folder.
+# Install dependencies
+$ pip install -r requirements.txt
 
-1. **Video Input**: The service takes in soccer match videos as input.
-   
-   ![Video Input](docs/img/video_input.png)
+# Add your input video in MP4 format to the input_videos folder
 
-2. **Object Detection & Tracking**: Using computer vision models (YOLO or similar), the service identifies and tracks players, referees, and the ball.
+# Specify the input video file name in the main file
 
-3. **Event Detection**: The system detects key events, such as goals, passes, tackles, and offsides.
+# Run the main file
+$ python main.py
 
-4. **Data Export**: The extracted data (player movements, ball positions, and event timestamps) are stored in a database for further analysis.
-
-5. **Visualization**: A visual representation of the analyzed data is generated, allowing users to review match dynamics in an intuitive format.
+# The processed video will be saved in the output_videos folder
+```
 
 ---
 
 ## 📦 Features
 
-- **Player & Ball Tracking**: Tracks the movement of players and the ball in real-time.
-- **Event Detection**: Automatically detects key game events like goals, offsides, and fouls.
-- **Data Storage**: Saves match data, including positional information and events, in a PostgreSQL database for easy access.
-- **Visualization**: Generates heatmaps and movement trajectories for players and the ball.
-- **Customizable Detection Models**: You can fine-tune models or integrate your own models for more specific analysis.
-
----
-
-## 🔧 Configuration
-
-The service uses a YAML configuration file where you can:
-
-- Specify the model for object detection (e.g., YOLOv5).
-- Configure detection thresholds for different events.
-- Set parameters for player tracking and ball tracking algorithms.
-- Adjust frame rate and processing speeds to balance accuracy and performance.
-
----
-
-## 📈 Logging
-
-All detection and analysis tasks are logged, allowing users to trace back every step of the process for debugging or auditing purposes.
-
----
-
-## 🤖 Customizable
-
-The system can be customized and extended to support other sports or use cases by adjusting the configuration file or training new models. The flexibility of the architecture allows for rapid adaptation to different types of events or analysis tasks.
+![Features](docs/features.png)
 
 ---
 
@@ -91,4 +61,6 @@ The system can be customized and extended to support other sports or use cases b
 <p align="center">
   https://t.me/yourtelegram
 </p>
+
+</div>
 
