@@ -2,8 +2,6 @@
 
 ![Main](docs/soccer.gif)
 
-## Overview
-
 This project is a computer vision-based analysis tool for soccer matches. It leverages advanced image processing techniques and machine learning models to analyze and extract meaningful insights from soccer match videos, such as player tracking, ball movement, and event detection.
 
 ---
@@ -28,6 +26,8 @@ Detects players on the field and assigns each to their team color for easy ident
 ## 📦 Features
 
 ![Features](docs/features_2.png)
+
+---
 
 ## 🚀 How to Try?
 
