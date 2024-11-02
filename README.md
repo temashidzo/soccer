@@ -19,11 +19,11 @@ This project is a computer vision-based analysis tool for soccer matches. It lev
 
 
 
-## Features
+# Features
 
 Detects players on the field and assigns each to their team color for easy identification. Referees are distinguished separately. Additionally, player numbers can be linked, ball tracking is active, and current ball possession is shown in real-time.
 
-<img src="docs/features_2.png" alt="Features" width="900"/>
+<img src="docs/features_2.png" alt="Features" width="800"/>
 
 <br>
 
@@ -35,7 +35,7 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ---
 
-##  How to Try?
+#  How to Try?
 
 <div align="left">
   
