@@ -35,7 +35,7 @@ Detects players on the field and assigns each to their team color for easy ident
 $ git clone https://github.com/temashidzo/soccer_analyzer.git
 
 # Go into the repository
-$ cd Emotion_detection_v1
+$ cd soccer_analyzer
 
 # Install dependencies
 $ pip install -r requirements.txt
