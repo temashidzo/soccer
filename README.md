@@ -17,6 +17,8 @@ This project is a computer vision-based analysis tool for soccer matches. It lev
 
 ---
 
+</div>
+
 ## Player and Team Tracking
 
 Detects players on the field and assigns each to their team color for easy identification. Referees are distinguished separately. Additionally, player numbers can be linked, ball tracking is active, and current ball possession is shown in real-time.
@@ -58,6 +60,4 @@ $ python main.py
 <p align="center">
   https://t.me/yourtelegram
 </p>
-
-</div>
 
