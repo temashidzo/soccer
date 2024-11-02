@@ -27,7 +27,17 @@ Detects players on the field and assigns each to their team color for easy ident
 
 </div>
 
-## 🚀 How It Works
+## 🚀 How to Try?
+
+1. Clone the repository:
+
+```git clone <repository_url>```
+
+2. Add an MP4 video file to the input_videos folder.
+3. In the main file, specify the path to your input video by setting the file name accordingly.
+4. Run the main file:
+```python main.py```
+5. The processed video will be saved in the output_videos folder.
 
 1. **Video Input**: The service takes in soccer match videos as input.
    
