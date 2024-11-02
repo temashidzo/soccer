@@ -25,7 +25,6 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ![Players](docs/giphy_1.gif)
 
-##  Features
 
 <img src="docs/features_2.png" alt="Features" width="800"/>
 
