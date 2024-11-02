@@ -17,7 +17,7 @@ This project is a computer vision-based analysis tool for soccer matches. It lev
 
 ---
 
-</div>
+
 
 ## Player and Team Tracking
 
@@ -25,13 +25,13 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ![Players](docs/giphy_1.gif)
 
-## 📦 Features
+##  Features
 
-![Features](docs/features_2.png)
+<img src="docs/features_2.png" alt="Features" width="800"/>
 
 ---
 
-## 🚀 How to Try?
+##  How to Try?
 
 ```# Clone this repository
 $ git clone https://github.com/temashidzo/soccer_analyzer.git
@@ -55,9 +55,6 @@ $ python main.py
 ---
 
 
-## 💻 For more detailed instructions, contact me on [Telegram](https://t.me/yourtelegram)
+## 🧑‍💻 For more detailed instructions, contact me on [Telegram]([https://t.me/yourtelegram](https://t.me/temashidzo))
 
-<p align="center">
-  https://t.me/yourtelegram
-</p>
-
+</div>
