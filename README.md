@@ -32,6 +32,8 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ##  How to Try?
 
+<div align="center">
+  
 ```# Clone this repository
 $ git clone https://github.com/temashidzo/soccer_analyzer.git
 
@@ -50,6 +52,8 @@ $ python main.py
 
 # The processed video will be saved in the output_videos folder
 ```
+
+</div>
 
 ---
 
