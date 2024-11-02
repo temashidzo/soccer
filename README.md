@@ -25,6 +25,14 @@ Detects players on the field and assigns each to their team color for easy ident
 
 <img src="docs/features_2.png" alt="Features" width="900"/>
 
+<br>
+
+<div align="center">
+  <img src="docs/giphy_1.gif" width="30%" style="margin-right: 10px;">
+  <img src="docs/giphy_2.gif" width="30%" style="margin-right: 10px;">
+  <img src="docs/giphy_3.gif" width="30%">
+</div>
+
 ---
 
 ##  How to Try?
