@@ -32,7 +32,7 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ##  How to Try?
 
-<div align="center">
+<div align="left">
   
 ```# Clone this repository
 $ git clone https://github.com/temashidzo/soccer_analyzer.git
