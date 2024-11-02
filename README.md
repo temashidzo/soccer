@@ -8,14 +8,14 @@ This project is a computer vision-based analysis tool for soccer matches. It lev
 
 ---
 
-## 🛠 Technologies Used
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-0078D4?style=for-the-badge&logo=roboflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-blue?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_encoded_logo>)
+
 
 ---
 
@@ -25,7 +25,11 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ![Players](docs/giphy_1.gif)
 
+## 📦 Features
 
+![Features](docs/features.png)
+
+---
 
 ## 🚀 How to Try?
 
@@ -50,11 +54,6 @@ $ python main.py
 
 ---
 
-## 📦 Features
-
-![Features](docs/features.png)
-
----
 
 ## 💻 For more detailed instructions, contact me on [Telegram](https://t.me/yourtelegram)
 
