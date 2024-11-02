@@ -29,8 +29,6 @@ Detects players on the field and assigns each to their team color for easy ident
 
 ![Features](docs/features.png)
 
----
-
 ## 🚀 How to Try?
 
 ```# Clone this repository
